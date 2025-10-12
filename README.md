@@ -21,7 +21,8 @@ This project implements a 4th-order Chebyshev bandpass filter for tone isolation
 
 ## Documentation
 Project photos, scope captures, and validation results:  
-[Google Photos Album](link)
+[Google Photos Album](https://photos.app.goo.gl/dP9kfoXf3A4A3R868)
+[Lab Report](https://docs.google.com/document/d/158_b8FIzKujPf06Vz0V0z3v3X9YoGqZVDf2zbVJa1-o/edit?usp=sharing)
 
 ## Author
 Created by **Seth Caskey** — Rutgers University, 2025.
