@@ -25,4 +25,4 @@ Project photos, scope captures, and validation results:
 - [Lab Report](https://docs.google.com/document/d/158_b8FIzKujPf06Vz0V0z3v3X9YoGqZVDf2zbVJa1-o/edit?usp=sharing)
 
 ## Author
-Created by **Seth Caskey** — Rutgers University, 2025.
+Created by **Seth Caskey** — 2025.
